@@ -1,0 +1,13 @@
+streamlit
+sqlalchemy
+pandas
+langchain-ollama
+langchain-core
+python-dotenv
+faker
+# RAG Dependencies
+chromadb
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+langchain-community

@@ -1,0 +1,49 @@
+# ACME CORP SRE TEAM - INTERNAL TROUBLESHOOTING SOP
+# CLASSIFICATION: CONFIDENTIAL
+# LAST UPDATED: 2026-01-10
+
+### SECTION 1: DATABASE SERVICES ###
+
+[SOP-DB-101] Service: rds-postgres-primary
+Error Pattern: "FATAL: remaining connection slots are reserved"
+Context: This occurs when the analytics dashboard keeps connections open.
+Internal Policy: DO NOT increase max_connections in AWS RDS immediately.
+Resolution Step:
+1. Kill idle connections using the 'pg_kill_idle' script.
+2. Run command: ./ops-scripts/db/kill_idle_conns.sh --db primary --age 10m
+
+[SOP-DB-102] Service: rds-postgres-primary
+Error Pattern: "Deadlock detected"
+Context: The nightly batch job conflicts with user writes.
+Resolution Step: Rerun the batch job with the flag `--concurrency=1`.
+
+### SECTION 2: COMPUTE & SERVERLESS ###
+
+[SOP-AWS-201] Service: aws-lambda-payment
+Error Pattern: "Runtime.ImportModuleError" or "No module named"
+Context: The CI/CD pipeline sometimes misses the 'vendor' folder for Python layers.
+Internal Policy: We use a custom Docker layer for payments.
+Resolution Step:
+1. Do not edit the Lambda in the console.
+2. Trigger a rebuild of the layer: gh workflow run build-payment-layer --ref main
+
+[SOP-AWS-202] Service: auth-service-node
+Error Pattern: "TokenExpiredError" or "jwt expired"
+Context: Staging environment tokens expire in 15 minutes. Production tokens expire in 24 hours.
+Internal Policy: Developers must generate 'long-lived' tokens for testing.
+Resolution Step:
+Generate a dev token: npm run auth:generate-token -- --duration=24h --env=staging
+
+### SECTION 3: KUBERNETES & NETWORK ###
+
+[SOP-K8S-301] Service: k8s-ingress-nginx
+Error Pattern: "UpstreamTimedOut" or "504 Gateway Time-out"
+Context: Usually caused by the 'image-resizer' pod taking too long to process huge PNGs.
+Resolution Step:
+1. Check if the 'image-resizer' pod is OOM (Out of Memory).
+2. Restart the pod: kubectl rollout restart deployment/image-resizer -n backend
+
+[SOP-K8S-302] Service: k8s-node
+Error Pattern: "DiskPressure"
+Context: The logging agent fills up /var/log/containers.
+Resolution Step: Run the cleanup daemonset: kubectl apply -f ./maintenance/log-cleaner.yaml

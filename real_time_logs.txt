@@ -1,0 +1,567 @@
+2026-01-14 23:13:08 [app-server] INFO Cache refreshed
+2026-01-14 23:13:11 [app-server] INFO Payment processed
+2026-01-14 23:13:14 [app-server] INFO User login successful
+2026-01-14 23:13:17 [app-server] INFO Health check passed
+2026-01-14 23:13:20 [app-server] INFO Cache refreshed
+2026-01-14 23:13:23 [app-server] INFO User login successful
+2026-01-14 23:13:26 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:13:29 [app-server] INFO Cache refreshed
+2026-01-14 23:13:32 [app-server] INFO User login successful
+2026-01-14 23:13:35 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:13:38 [app-server] INFO Health check passed
+2026-01-14 23:13:41 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:13:44 [app-server] INFO User login successful
+2026-01-14 23:13:47 [app-server] INFO Payment processed
+2026-01-14 23:13:50 [app-server] INFO Cache refreshed
+2026-01-14 23:13:53 [app-server] INFO Payment processed
+2026-01-14 23:13:56 [app-server] INFO Health check passed
+2026-01-14 23:13:59 [app-server] INFO Health check passed
+2026-01-14 23:14:02 [app-server] INFO Payment processed
+2026-01-14 23:14:05 [app-server] INFO Health check passed
+2026-01-14 23:14:08 [app-server] INFO Payment processed
+2026-01-14 23:14:11 [app-server] INFO Health check passed
+2026-01-14 23:14:14 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:14:17 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:14:20 [app-server] INFO Health check passed
+2026-01-14 23:14:23 [app-server] INFO User login successful
+2026-01-14 23:14:26 [app-server] INFO User login successful
+2026-01-14 23:14:29 [app-server] INFO Cache refreshed
+2026-01-14 23:14:32 [app-server] INFO Health check passed
+2026-01-14 23:14:35 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:14:38 [app-server] INFO User login successful
+2026-01-14 23:14:41 [app-server] INFO User login successful
+2026-01-14 23:14:44 [app-server] INFO User login successful
+2026-01-14 23:14:47 [app-server] INFO Payment processed
+2026-01-14 23:14:50 [app-server] INFO User login successful
+2026-01-14 23:14:53 [app-server] INFO Payment processed
+2026-01-14 23:14:56 [app-server] INFO Health check passed
+2026-01-14 23:14:59 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:15:02 [app-server] INFO Cache refreshed
+2026-01-14 23:15:05 [app-server] INFO Cache refreshed
+2026-01-14 23:15:08 [app-server] INFO Payment processed
+2026-01-14 23:15:11 [app-server] INFO Cache refreshed
+2026-01-14 23:15:14 [app-server] INFO Payment processed
+2026-01-14 23:15:17 [app-server] INFO Health check passed
+2026-01-14 23:15:20 [app-server] INFO Health check passed
+2026-01-14 23:15:23 [app-server] INFO Payment processed
+2026-01-14 23:15:26 [app-server] INFO Payment processed
+2026-01-14 23:15:29 [app-server] INFO User login successful
+2026-01-14 23:15:32 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:15:35 [app-server] INFO User login successful
+2026-01-14 23:15:38 [app-server] INFO Payment processed
+2026-01-14 23:15:41 [app-server] INFO User login successful
+2026-01-14 23:15:44 [app-server] INFO Cache refreshed
+2026-01-14 23:15:47 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:15:50 [app-server] INFO User login successful
+2026-01-14 23:15:53 [app-server] INFO User login successful
+2026-01-14 23:15:56 [app-server] INFO Health check passed
+2026-01-14 23:15:59 [app-server] INFO User login successful
+2026-01-14 23:16:03 [app-server] INFO User login successful
+2026-01-14 23:16:06 [app-server] INFO Payment processed
+2026-01-14 23:16:09 [app-server] INFO Payment processed
+2026-01-14 23:16:12 [app-server] INFO User login successful
+2026-01-14 23:16:15 [app-server] INFO Cache refreshed
+2026-01-14 23:16:18 [app-server] INFO Payment processed
+2026-01-14 23:16:21 [app-server] INFO Health check passed
+2026-01-14 23:16:24 [app-server] INFO Health check passed
+2026-01-14 23:16:27 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:16:30 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:16:33 [app-server] INFO Cache refreshed
+2026-01-14 23:16:36 [app-server] INFO Cache refreshed
+2026-01-14 23:16:39 [app-server] INFO Payment processed
+2026-01-14 23:16:42 [app-server] INFO User login successful
+2026-01-14 23:16:45 [app-server] INFO Cache refreshed
+2026-01-14 23:16:48 [app-server] INFO Cache refreshed
+2026-01-14 23:16:51 [app-server] INFO Health check passed
+2026-01-14 23:16:54 [app-server] INFO Payment processed
+2026-01-14 23:16:57 [app-server] INFO Health check passed
+2026-01-14 23:17:00 [app-server] INFO Payment processed
+2026-01-14 23:17:03 [app-server] INFO Health check passed
+2026-01-14 23:17:06 [app-server] INFO User login successful
+2026-01-14 23:17:09 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:17:12 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:17:15 [app-server] INFO Cache refreshed
+2026-01-14 23:17:18 [app-server] INFO Health check passed
+2026-01-14 23:17:21 [app-server] INFO Cache refreshed
+2026-01-14 23:17:24 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:17:27 [app-server] INFO Cache refreshed
+2026-01-14 23:17:30 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:17:33 [app-server] INFO User login successful
+2026-01-14 23:17:36 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:17:39 [app-server] INFO User login successful
+2026-01-14 23:17:42 [app-server] INFO Health check passed
+2026-01-14 23:17:45 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:17:48 [app-server] INFO Cache refreshed
+2026-01-14 23:17:51 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:17:54 [app-server] INFO Payment processed
+2026-01-14 23:17:57 [app-server] INFO Cache refreshed
+2026-01-14 23:18:00 [app-server] INFO Cache refreshed
+2026-01-14 23:18:03 [app-server] INFO Payment processed
+2026-01-14 23:18:06 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:18:09 [app-server] INFO User login successful
+2026-01-14 23:18:12 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:18:15 [app-server] INFO User login successful
+2026-01-14 23:18:18 [app-server] INFO User login successful
+2026-01-14 23:18:21 [app-server] INFO Cache refreshed
+2026-01-14 23:18:24 [app-server] INFO Health check passed
+2026-01-14 23:18:27 [app-server] INFO Payment processed
+2026-01-14 23:18:30 [app-server] INFO Payment processed
+2026-01-14 23:18:33 [app-server] INFO Cache refreshed
+2026-01-14 23:18:36 [app-server] INFO User login successful
+2026-01-14 23:18:39 [app-server] INFO Health check passed
+2026-01-14 23:18:42 [app-server] INFO Health check passed
+2026-01-14 23:18:45 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:18:48 [app-server] INFO Health check passed
+2026-01-14 23:18:51 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:18:54 [app-server] INFO User login successful
+2026-01-14 23:18:57 [app-server] INFO Cache refreshed
+2026-01-14 23:19:00 [app-server] INFO Payment processed
+2026-01-14 23:19:03 [app-server] INFO Payment processed
+2026-01-14 23:19:06 [app-server] INFO Payment processed
+2026-01-14 23:19:09 [app-server] INFO User login successful
+2026-01-14 23:19:12 [app-server] INFO Health check passed
+2026-01-14 23:19:15 [app-server] INFO Cache refreshed
+2026-01-14 23:19:18 [app-server] INFO Cache refreshed
+2026-01-14 23:19:21 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:19:24 [app-server] INFO Cache refreshed
+2026-01-14 23:19:27 [app-server] INFO Health check passed
+2026-01-14 23:19:30 [app-server] INFO Cache refreshed
+2026-01-14 23:19:33 [app-server] INFO User login successful
+2026-01-14 23:19:36 [app-server] INFO Payment processed
+2026-01-14 23:19:39 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:19:42 [app-server] INFO User login successful
+2026-01-14 23:19:45 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:19:48 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:19:51 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:19:54 [app-server] INFO Cache refreshed
+2026-01-14 23:19:57 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:20:00 [app-server] INFO Payment processed
+2026-01-14 23:20:03 [app-server] INFO Health check passed
+2026-01-14 23:20:06 [app-server] INFO Health check passed
+2026-01-14 23:20:09 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:20:12 [app-server] INFO Cache refreshed
+2026-01-14 23:20:15 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:20:18 [app-server] INFO Payment processed
+2026-01-14 23:20:21 [app-server] INFO Payment processed
+2026-01-14 23:20:24 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:20:27 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:20:30 [app-server] INFO Payment processed
+2026-01-14 23:20:33 [app-server] INFO Health check passed
+2026-01-14 23:20:36 [app-server] INFO Health check passed
+2026-01-14 23:20:39 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:20:42 [app-server] INFO Health check passed
+2026-01-14 23:20:45 [app-server] INFO Cache refreshed
+2026-01-14 23:20:48 [app-server] INFO Health check passed
+2026-01-14 23:20:51 [app-server] INFO Health check passed
+2026-01-14 23:20:54 [app-server] INFO Payment processed
+2026-01-14 23:20:57 [app-server] INFO Payment processed
+2026-01-14 23:21:00 [app-server] INFO User login successful
+2026-01-14 23:21:03 [app-server] INFO Health check passed
+2026-01-14 23:21:06 [app-server] INFO Payment processed
+2026-01-14 23:21:09 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:21:12 [app-server] INFO User login successful
+2026-01-14 23:21:15 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:21:18 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:21:21 [app-server] INFO Cache refreshed
+2026-01-14 23:21:24 [app-server] INFO User login successful
+2026-01-14 23:21:27 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:21:30 [app-server] INFO User login successful
+2026-01-14 23:21:33 [app-server] INFO Cache refreshed
+2026-01-14 23:21:36 [app-server] INFO User login successful
+2026-01-14 23:21:39 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:21:42 [app-server] INFO Cache refreshed
+2026-01-14 23:21:45 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:21:48 [app-server] INFO Payment processed
+2026-01-14 23:21:51 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:21:54 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:21:57 [app-server] INFO Payment processed
+2026-01-14 23:22:00 [app-server] INFO Health check passed
+2026-01-14 23:22:03 [app-server] INFO User login successful
+2026-01-14 23:22:06 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:22:09 [app-server] INFO Health check passed
+2026-01-14 23:22:12 [app-server] INFO User login successful
+2026-01-14 23:22:15 [app-server] INFO Cache refreshed
+2026-01-14 23:22:18 [app-server] INFO Cache refreshed
+2026-01-14 23:22:21 [app-server] INFO Health check passed
+2026-01-14 23:22:24 [app-server] INFO User login successful
+2026-01-14 23:22:27 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:22:30 [app-server] INFO Health check passed
+2026-01-14 23:22:33 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:22:36 [app-server] INFO Cache refreshed
+2026-01-14 23:22:39 [app-server] INFO User login successful
+2026-01-14 23:22:42 [app-server] INFO Payment processed
+2026-01-14 23:22:45 [app-server] INFO User login successful
+2026-01-14 23:22:48 [app-server] INFO User login successful
+2026-01-14 23:22:51 [app-server] INFO Health check passed
+2026-01-14 23:22:54 [app-server] INFO Health check passed
+2026-01-14 23:22:57 [app-server] INFO User login successful
+2026-01-14 23:23:00 [app-server] INFO Cache refreshed
+2026-01-14 23:23:03 [app-server] INFO Payment processed
+2026-01-14 23:23:06 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:23:09 [app-server] INFO Health check passed
+2026-01-14 23:23:12 [app-server] INFO Health check passed
+2026-01-14 23:23:15 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:23:18 [app-server] INFO Health check passed
+2026-01-14 23:23:21 [app-server] INFO User login successful
+2026-01-14 23:23:24 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:23:27 [app-server] INFO User login successful
+2026-01-14 23:23:30 [app-server] INFO Health check passed
+2026-01-14 23:23:33 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:23:36 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-14 23:23:39 [app-server] INFO Health check passed
+2026-01-14 23:23:42 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:23:45 [app-server] INFO User login successful
+2026-01-14 23:23:48 [app-server] INFO Payment processed
+2026-01-14 23:23:51 [app-server] INFO Health check passed
+2026-01-14 23:23:54 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:23:57 [app-server] INFO Payment processed
+2026-01-14 23:24:00 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:24:03 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:24:06 [app-server] INFO Health check passed
+2026-01-14 23:24:09 [app-server] INFO Health check passed
+2026-01-14 23:24:12 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:24:15 [app-server] INFO Health check passed
+2026-01-14 23:24:18 [app-server] INFO Cache refreshed
+2026-01-14 23:24:21 [app-server] INFO Health check passed
+2026-01-14 23:24:24 [app-server] INFO Health check passed
+2026-01-14 23:24:27 [app-server] INFO Cache refreshed
+2026-01-14 23:24:30 [app-server] INFO User login successful
+2026-01-14 23:24:33 [app-server] INFO Health check passed
+2026-01-14 23:24:36 [app-server] INFO Cache refreshed
+2026-01-14 23:24:39 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:24:42 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-14 23:24:45 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-14 23:24:48 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:24:51 [app-server] INFO User login successful
+2026-01-14 23:24:54 [app-server] INFO Payment processed
+2026-01-14 23:24:57 [app-server] INFO Payment processed
+2026-01-14 23:25:00 [app-server] INFO Cache refreshed
+2026-01-14 23:25:03 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:25:06 [app-server] INFO Cache refreshed
+2026-01-14 23:25:09 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-14 23:25:12 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 00:14:28 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 00:14:31 [app-server] INFO Health check passed
+2026-01-15 00:14:34 [app-server] INFO Health check passed
+2026-01-15 00:14:37 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:14:40 [app-server] INFO Health check passed
+2026-01-15 00:14:43 [app-server] INFO Payment processed
+2026-01-15 00:14:46 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:14:49 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:14:52 [app-server] INFO Health check passed
+2026-01-15 00:14:55 [app-server] INFO Health check passed
+2026-01-15 00:14:58 [app-server] INFO Cache refreshed
+2026-01-15 00:15:01 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:15:04 [app-server] INFO Cache refreshed
+2026-01-15 00:15:07 [app-server] INFO Health check passed
+2026-01-15 00:15:10 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:15:13 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:15:16 [app-server] INFO Payment processed
+2026-01-15 00:15:19 [app-server] INFO Cache refreshed
+2026-01-15 00:15:22 [app-server] INFO Health check passed
+2026-01-15 00:15:25 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:15:28 [app-server] INFO Payment processed
+2026-01-15 00:15:31 [app-server] INFO Cache refreshed
+2026-01-15 00:15:34 [app-server] INFO Cache refreshed
+2026-01-15 00:15:37 [app-server] INFO User login successful
+2026-01-15 00:15:40 [app-server] INFO User login successful
+2026-01-15 00:15:43 [app-server] INFO User login successful
+2026-01-15 00:15:46 [app-server] INFO Payment processed
+2026-01-15 00:15:49 [app-server] INFO Cache refreshed
+2026-01-15 00:15:52 [app-server] INFO Cache refreshed
+2026-01-15 00:15:55 [app-server] INFO Payment processed
+2026-01-15 00:15:58 [app-server] INFO User login successful
+2026-01-15 00:16:01 [app-server] INFO Health check passed
+2026-01-15 00:16:04 [app-server] INFO Health check passed
+2026-01-15 00:16:07 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:16:10 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:16:13 [app-server] INFO Payment processed
+2026-01-15 00:16:16 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:16:19 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:16:22 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:16:25 [app-server] INFO Cache refreshed
+2026-01-15 00:16:28 [app-server] INFO Payment processed
+2026-01-15 00:16:31 [app-server] INFO Health check passed
+2026-01-15 00:16:34 [app-server] INFO User login successful
+2026-01-15 00:16:37 [app-server] INFO Health check passed
+2026-01-15 00:16:40 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:16:43 [app-server] INFO Cache refreshed
+2026-01-15 00:16:46 [app-server] INFO User login successful
+2026-01-15 00:16:49 [app-server] INFO Health check passed
+2026-01-15 00:16:52 [app-server] INFO User login successful
+2026-01-15 00:16:55 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:16:58 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:17:01 [app-server] INFO User login successful
+2026-01-15 00:17:04 [app-server] INFO Health check passed
+2026-01-15 00:17:07 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:17:10 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:17:13 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 00:17:16 [app-server] INFO Cache refreshed
+2026-01-15 00:17:19 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:17:22 [app-server] INFO Health check passed
+2026-01-15 00:17:25 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:17:28 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 00:17:31 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:17:34 [app-server] INFO User login successful
+2026-01-15 00:17:37 [app-server] INFO User login successful
+2026-01-15 00:17:40 [app-server] INFO Payment processed
+2026-01-15 00:17:43 [app-server] INFO Cache refreshed
+2026-01-15 00:17:46 [app-server] INFO Payment processed
+2026-01-15 00:17:49 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:17:52 [app-server] INFO User login successful
+2026-01-15 00:17:55 [app-server] INFO Cache refreshed
+2026-01-15 00:17:58 [app-server] INFO Cache refreshed
+2026-01-15 00:18:01 [app-server] INFO User login successful
+2026-01-15 00:18:04 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:18:07 [app-server] INFO User login successful
+2026-01-15 00:18:10 [app-server] INFO Health check passed
+2026-01-15 00:18:13 [app-server] INFO Payment processed
+2026-01-15 00:18:16 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:18:19 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:18:22 [app-server] INFO Health check passed
+2026-01-15 00:18:25 [app-server] INFO Cache refreshed
+2026-01-15 00:18:28 [app-server] INFO Health check passed
+2026-01-15 00:18:31 [app-server] INFO User login successful
+2026-01-15 00:18:34 [app-server] INFO User login successful
+2026-01-15 00:18:37 [app-server] INFO User login successful
+2026-01-15 00:18:40 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:18:43 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:18:46 [app-server] INFO Payment processed
+2026-01-15 00:18:49 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:18:52 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:18:55 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:18:58 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:19:01 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 00:19:04 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:19:07 [app-server] INFO Health check passed
+2026-01-15 00:19:10 [app-server] INFO User login successful
+2026-01-15 00:19:13 [app-server] INFO User login successful
+2026-01-15 00:19:16 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:19:19 [app-server] INFO Cache refreshed
+2026-01-15 00:19:22 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:19:25 [app-server] INFO User login successful
+2026-01-15 00:19:28 [app-server] INFO Payment processed
+2026-01-15 00:19:31 [app-server] INFO User login successful
+2026-01-15 00:19:34 [app-server] INFO Cache refreshed
+2026-01-15 00:19:37 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:19:40 [app-server] INFO Health check passed
+2026-01-15 00:19:43 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:19:46 [app-server] INFO Payment processed
+2026-01-15 00:19:49 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:19:52 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:19:55 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:19:58 [app-server] INFO Payment processed
+2026-01-15 00:20:01 [app-server] INFO Cache refreshed
+2026-01-15 00:20:04 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:20:07 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 00:20:10 [app-server] INFO User login successful
+2026-01-15 00:20:13 [app-server] INFO Cache refreshed
+2026-01-15 00:20:16 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:20:19 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:20:22 [app-server] INFO Health check passed
+2026-01-15 00:20:25 [app-server] INFO Cache refreshed
+2026-01-15 00:20:28 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:20:31 [app-server] INFO Health check passed
+2026-01-15 00:20:34 [app-server] INFO Payment processed
+2026-01-15 00:20:37 [app-server] INFO Payment processed
+2026-01-15 00:20:40 [app-server] INFO User login successful
+2026-01-15 00:20:43 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:20:46 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:20:49 [app-server] INFO Payment processed
+2026-01-15 00:20:52 [app-server] INFO Payment processed
+2026-01-15 00:20:55 [app-server] INFO Payment processed
+2026-01-15 00:20:58 [app-server] INFO Payment processed
+2026-01-15 00:21:01 [app-server] INFO User login successful
+2026-01-15 00:21:04 [app-server] INFO Payment processed
+2026-01-15 00:21:07 [app-server] INFO User login successful
+2026-01-15 00:21:10 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:21:13 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:21:16 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:21:19 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 00:21:22 [app-server] INFO User login successful
+2026-01-15 00:21:25 [app-server] INFO Payment processed
+2026-01-15 00:21:28 [app-server] INFO Payment processed
+2026-01-15 00:21:31 [app-server] INFO Health check passed
+2026-01-15 00:21:34 [app-server] INFO Payment processed
+2026-01-15 00:21:37 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:21:40 [app-server] INFO Health check passed
+2026-01-15 00:21:43 [app-server] INFO Payment processed
+2026-01-15 00:21:46 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:21:49 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:21:52 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:21:55 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 00:21:58 [app-server] INFO User login successful
+2026-01-15 00:22:01 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 00:22:04 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 00:22:07 [app-server] INFO Payment processed
+2026-01-15 00:22:10 [app-server] INFO Cache refreshed
+2026-01-15 00:22:13 [app-server] INFO User login successful
+2026-01-15 00:22:16 [app-server] INFO Cache refreshed
+2026-01-15 00:22:19 [app-server] INFO Payment processed
+2026-01-15 00:22:22 [app-server] INFO Payment processed
+2026-01-15 00:22:25 [app-server] INFO Health check passed
+2026-01-15 00:22:28 [app-server] INFO Payment processed
+2026-01-15 22:04:10 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:04:13 [app-server] INFO Health check passed
+2026-01-15 22:04:16 [app-server] INFO Payment processed
+2026-01-15 22:04:19 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 22:04:22 [app-server] INFO Payment processed
+2026-01-15 22:04:25 [app-server] INFO Health check passed
+2026-01-15 22:04:28 [app-server] INFO User login successful
+2026-01-15 22:04:31 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 22:04:34 [app-server] INFO Health check passed
+2026-01-15 22:04:37 [app-server] INFO Payment processed
+2026-01-15 22:04:40 [app-server] INFO Payment processed
+2026-01-15 22:04:43 [app-server] INFO User login successful
+2026-01-15 22:04:46 [app-server] INFO Payment processed
+2026-01-15 22:04:49 [app-server] INFO Payment processed
+2026-01-15 22:04:52 [app-server] INFO Cache refreshed
+2026-01-15 22:04:55 [app-server] INFO Health check passed
+2026-01-15 22:04:58 [app-server] INFO Payment processed
+2026-01-15 22:05:01 [app-server] INFO Cache refreshed
+2026-01-15 22:05:04 [app-server] INFO User login successful
+2026-01-15 22:05:07 [app-server] INFO Payment processed
+2026-01-15 22:05:10 [app-server] INFO User login successful
+2026-01-15 22:05:13 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:05:16 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:05:19 [app-server] INFO Payment processed
+2026-01-15 22:05:22 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 22:05:25 [app-server] INFO Payment processed
+2026-01-15 22:05:28 [app-server] INFO Cache refreshed
+2026-01-15 22:05:31 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 22:05:34 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:05:37 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:05:40 [app-server] INFO Payment processed
+2026-01-15 22:05:43 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:05:46 [app-server] INFO Cache refreshed
+2026-01-15 22:05:49 [app-server] INFO User login successful
+2026-01-15 22:05:52 [app-server] INFO User login successful
+2026-01-15 22:05:55 [app-server] INFO Health check passed
+2026-01-15 22:07:10 [app-server] INFO Health check passed
+2026-01-15 22:07:13 [app-server] INFO Cache refreshed
+2026-01-15 22:07:16 [app-server] INFO Payment processed
+2026-01-15 22:07:19 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:07:22 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 22:07:25 [app-server] INFO Health check passed
+2026-01-15 22:07:28 [app-server] INFO Payment processed
+2026-01-15 22:07:31 [app-server] INFO User login successful
+2026-01-15 22:07:34 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:07:37 [app-server] INFO Cache refreshed
+2026-01-15 22:07:40 [app-server] INFO Health check passed
+2026-01-15 22:07:43 [app-server] INFO Health check passed
+2026-01-15 22:07:46 [app-server] INFO Cache refreshed
+2026-01-15 22:07:49 [app-server] INFO Health check passed
+2026-01-15 22:07:52 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:07:55 [app-server] INFO Health check passed
+2026-01-15 22:07:58 [app-server] INFO Payment processed
+2026-01-15 22:08:01 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:08:04 [app-server] INFO User login successful
+2026-01-15 22:08:07 [app-server] INFO Cache refreshed
+2026-01-15 22:08:10 [app-server] INFO Health check passed
+2026-01-15 22:08:13 [app-server] INFO Cache refreshed
+2026-01-15 22:09:28 [app-server] INFO Cache refreshed
+2026-01-15 22:09:31 [app-server] INFO Payment processed
+2026-01-15 22:09:34 [app-server] INFO Cache refreshed
+2026-01-15 22:09:37 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 22:09:40 [app-server] INFO Health check passed
+2026-01-15 22:09:43 [app-server] INFO Payment processed
+2026-01-15 22:09:46 [app-server] INFO Payment processed
+2026-01-15 22:09:49 [app-server] INFO User login successful
+2026-01-15 22:09:52 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:09:55 [app-server] INFO Payment processed
+2026-01-15 22:09:58 [app-server] INFO Cache refreshed
+2026-01-15 22:10:01 [app-server] INFO Health check passed
+2026-01-15 22:10:04 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:10:07 [app-server] INFO User login successful
+2026-01-15 22:10:10 [app-server] INFO Health check passed
+2026-01-15 22:10:13 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:10:16 [app-server] INFO Payment processed
+2026-01-15 22:10:19 [app-server] INFO Cache refreshed
+2026-01-15 22:10:22 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:10:25 [app-server] INFO Cache refreshed
+2026-01-15 22:10:28 [app-server] INFO Cache refreshed
+2026-01-15 22:10:31 [app-server] INFO Cache refreshed
+2026-01-15 22:10:34 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:10:37 [app-server] INFO Payment processed
+2026-01-15 22:10:40 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 22:10:43 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:10:46 [app-server] INFO Cache refreshed
+2026-01-15 22:10:49 [app-server] INFO Cache refreshed
+2026-01-15 22:10:52 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:10:55 [app-server] INFO User login successful
+2026-01-15 22:10:58 [app-server] INFO Health check passed
+2026-01-15 22:11:01 [app-server] INFO User login successful
+2026-01-15 22:11:04 [app-server] INFO Health check passed
+2026-01-15 22:11:07 [app-server] INFO Cache refreshed
+2026-01-15 22:11:10 [app-server] INFO User login successful
+2026-01-15 22:11:13 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:11:16 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:11:19 [app-server] INFO User login successful
+2026-01-15 22:11:22 [app-server] INFO Health check passed
+2026-01-15 22:11:25 [app-server] INFO Payment processed
+2026-01-15 22:11:28 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:11:31 [app-server] INFO Payment processed
+2026-01-15 22:11:34 [app-server] INFO User login successful
+2026-01-15 22:11:37 [app-server] INFO Health check passed
+2026-01-15 22:11:40 [app-server] INFO Payment processed
+2026-01-15 22:11:43 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:11:46 [app-server] INFO Health check passed
+2026-01-15 22:11:49 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:11:52 [app-server] INFO Cache refreshed
+2026-01-15 22:11:55 [app-server] INFO User login successful
+2026-01-15 22:11:58 [app-server] INFO User login successful
+2026-01-15 22:12:01 [app-server] INFO Health check passed
+2026-01-15 22:12:04 [app-server] INFO Cache refreshed
+2026-01-15 22:12:07 [app-server] INFO Health check passed
+2026-01-15 22:12:10 [app-server] INFO Health check passed
+2026-01-15 22:12:13 [app-server] INFO Payment processed
+2026-01-15 22:12:16 [app-server] INFO Health check passed
+2026-01-15 22:12:19 [app-server] INFO Health check passed
+2026-01-15 22:12:22 [app-server] INFO User login successful
+2026-01-15 22:12:25 [app-server] INFO Health check passed
+2026-01-15 22:12:28 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:12:31 [app-server] INFO Cache refreshed
+2026-01-15 22:12:34 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:12:37 [app-server] INFO Health check passed
+2026-01-15 22:12:40 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:12:43 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:12:46 [app-server] INFO User login successful
+2026-01-15 22:12:49 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:12:52 [app-server] INFO User login successful
+2026-01-15 22:12:55 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:12:58 [app-server] INFO User login successful
+2026-01-15 22:13:01 [app-server] INFO Payment processed
+2026-01-15 22:13:04 [k8s-ingress-nginx] WARNING 504 Gateway Time-out - Upstream server not responding
+2026-01-15 22:13:07 [app-server] INFO User login successful
+2026-01-15 22:13:10 [app-server] INFO Health check passed
+2026-01-15 22:13:13 [app-server] INFO User login successful
+2026-01-15 22:13:16 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:13:19 [app-server] INFO Payment processed
+2026-01-15 22:13:22 [app-server] INFO User login successful
+2026-01-15 22:13:25 [app-server] INFO Health check passed
+2026-01-15 22:13:28 [aws-lambda-payment] ERROR Runtime.ImportModuleError: Unable to import module 'app': No module named 'requests'
+2026-01-15 22:13:31 [app-server] INFO Cache refreshed
+2026-01-15 22:13:34 [app-server] INFO Payment processed
+2026-01-15 22:13:37 [app-server] INFO Health check passed
+2026-01-15 22:13:40 [app-server] INFO User login successful
+2026-01-15 22:13:43 [app-server] INFO User login successful
+2026-01-15 22:13:46 [rds-postgres-primary] CRITICAL FATAL: remaining connection slots are reserved for non-replication superuser connections
+2026-01-15 22:13:49 [app-server] INFO Cache refreshed
+2026-01-15 22:13:52 [app-server] INFO Payment processed
+2026-01-15 22:13:55 [app-server] INFO Cache refreshed
+2026-01-15 22:13:58 [app-server] INFO Health check passed
+2026-01-15 22:14:01 [app-server] INFO Cache refreshed
+2026-01-15 22:14:04 [app-server] INFO Health check passed
+2026-01-15 22:14:07 [app-server] INFO Cache refreshed
+2026-01-15 22:14:10 [app-server] INFO Health check passed
+2026-01-15 22:14:13 [app-server] INFO Health check passed
+2026-01-15 22:14:16 [app-server] INFO Health check passed
+2026-01-15 22:14:19 [app-server] INFO Payment processed
+2026-01-15 22:14:22 [app-server] INFO Payment processed
+2026-01-15 22:14:25 [app-server] INFO User login successful
+2026-01-15 22:14:28 [app-server] INFO Cache refreshed
+2026-01-15 22:14:31 [app-server] INFO User login successful
+2026-01-15 22:14:34 [auth-service-node] ERROR TokenExpiredError: jwt expired at 2024-01-09T10:00:00.000Z
+2026-01-15 22:14:37 [app-server] INFO User login successful
+2026-01-15 22:14:40 [app-server] INFO Payment processed
+2026-01-15 22:14:43 [app-server] INFO Payment processed
